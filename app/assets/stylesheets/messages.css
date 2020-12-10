@@ -84,8 +84,9 @@
   padding: 20px;
 }
 .messages {
+  background-color: #FAFAFA;
   height: calc(100vh - 100px - 90px);
-  background-color: #fafafa;
+ 
   padding: 46px 40px 0;
   overflow: scroll;
 }
@@ -94,7 +95,7 @@
   margin: 10px 0 0 0;
 }
 
-.upper-message {
+.upper-message{
   display: flex;
 }
 
@@ -120,8 +121,9 @@
 }
 
 .form {
+  background-color: #DDDDDD;
+
   height: 90px;
-  background-color: #dddddd;
   padding: 20px 40px;
   display: flex;
 }
@@ -140,7 +142,7 @@
 }
 
 .form-submit {
-  background-color: #38aef0;
+  background-color: #38AEF0;
   border: none;
   color: white;
   font-size: 16px;
